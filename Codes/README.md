@@ -1,5 +1,5 @@
 # Codes
-All the codes are written in R.
+All the codes are written in **R Language**. For a better presentation, Jupyter notebook is used. Therefore, the file types are .ipynb.
 
 **Prerequisite Libraries**:
 
