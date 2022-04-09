@@ -1,4 +1,4 @@
 # Replication - JIT defect prediction
-**The datasets that are used in this paper have been collected in this GitHub page.
+**The datasets used in this paper can be downloaded from `Datasets` folder.
 
 All the codes will be added after the paper being accepted.
